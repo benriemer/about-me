@@ -8,17 +8,15 @@
 
 - 🔭 I’m currently working on [djevents](www.dj-events-berlin.de)
 
-- 🌱 I’m currently learning **NextJS and GO**
+- 🌱 I’m currently learning **Rust and GO**
 
-- 👨‍💻 All of my projects are available at [www.riemer-berlin.de](www.riemer-berlin.de)
+- 📝 I regularly write articles on [[www.codingtutorial.de](https://medium.com/@benriemer)](MEDIUM)
 
-- 📝 I regularly write articles on [www.codingtutorial.de](www.codingtutorial.de)
+- 💬 Ask me about **NodeJS, ReactJS, Redux and Strapi.io**
 
-- 💬 Ask me about **ReactJS, Redux and Strapi.io**
+- 📫 How to reach me **riemer600@gmail.com**
 
-- 📫 How to reach me **develop@riemer-berlin.de**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RNzQSE58Al1Pd_V7SQggSDY_BL3gsQm7/view](https://drive.google.com/file/d/1RNzQSE58Al1Pd_V7SQggSDY_BL3gsQm7/view)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1RNzQSE58Al1Pd_V7SQggSDY_BL3gsQm7/view](https://www.linkedin.com/in/benjamin-riemer-783431127/)](LinkedIn)
 
 - ⚡ Fun fact **My superpower is to buy for 50€ a constellation of food from which you can not cook a single dish.**
 
