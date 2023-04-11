@@ -10,13 +10,13 @@
 
 - 🌱 I’m currently learning **Rust and GO**
 
-- 📝 I regularly write articles on [[www.codingtutorial.de](https://medium.com/@benriemer)](MEDIUM)
+- 📝 I regularly write articles on [https://medium.com/@benriemer](Medium @benriemer)
 
 - 💬 Ask me about **NodeJS, ReactJS, Redux and Strapi.io**
 
 - 📫 How to reach me **riemer600@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1RNzQSE58Al1Pd_V7SQggSDY_BL3gsQm7/view](https://www.linkedin.com/in/benjamin-riemer-783431127/)](LinkedIn)
+- 📄 Know about my experiences [https://www.linkedin.com/in/benjamin-riemer-783431127/](LinkedIn)
 
 - ⚡ Fun fact **My superpower is to buy for 50€ a constellation of food from which you can not cook a single dish.**
 
