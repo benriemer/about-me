@@ -2,6 +2,8 @@
 <h1 align="center">Hi 👋, I'm Benjamin</h1>
 <h3 align="center">Self-motivated 🚀🚀🚀 Web Developer adds a high level of experience over ten years collaborating and working on multiple web-based projects.</h3>
 
+[![wakatime](https://wakatime.com/badge/user/ac514a76-54fc-44b9-bb1b-b8f85216ad3a.svg)](https://wakatime.com/@ac514a76-54fc-44b9-bb1b-b8f85216ad3a)
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=benriemer&label=Profile%20views&color=0e75b6&style=flat" alt="benriemer" /> </p>
 
 - 🔭 I’m currently working on [djevents](www.dj-events-berlin.de)
